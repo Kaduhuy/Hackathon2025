@@ -40,83 +40,6 @@ const result = [
 </ul>
    `,
     
-    `
-<h2>Case: Klesbutikkens Nettside 👗</h2>
-<ul>
-    <li>Tittel: Lag en stilig nettside for “TrendHjørnet” – en lokal klesbutikk som tilbyr moteriktige plagg og personlig veiledning.</li>
-</ul>
-
-<h3>Bakgrunn:</h3>
-<ul>
-    <li>“TrendHjørnet” ønsker å modernisere kundereisen ved å tilby en enkel og inspirerende nettside. </li>
-    <li>Målet er å gjøre det enkelt for kunder å se hva som er på lager, få et inntrykk av klesstilen, samt komme i kontakt med butikken.</li>
-</ul>
-    
-<h3>Oppgave:</h3>
-<ul>
-    <li>Bygg en grunnleggende nettside for “TrendHjørnet”. Nettsiden skal være enkel å navigere og ha et moderne design som fremhever klesplaggene på en innbydende måte.</li>
-</ul>
-
-<h3>Krav til funksjonalitet:</h3>
-<h3>1.  Hjemmeside:</h3>
-<ul>
-    <li>En oversiktlig velkomstside med butikkens navn og et kort slagord.</li>
-    <li>Et bannerbilde som fanger butikkens stil (kan bruke et generisk motebilde).</li>
-    <li>En kort beskrivelse av butikken, verdier og hva som gjør “TrendHjørnet” unikt.</li>
-</ul>
-
-<h3>2.  Produktliste:</h3>
-<ul>
-    <li>Vis frem minst tre ulike klesplagg eller tilbehør.</li>
-    <li>Hvert produkt bør ha et bilde, navn og en kort beskrivelse (f.eks. materiale, størrelse, farger).</li>
-    <li>Valgfritt: Informer om pris eller eventuelle tilbud.</li>
-</ul>
-
-<h3>3.  Kontaktinformasjon:</h3>
-<ul>
-    <li>En egen seksjon eller underside med butikkens adresse, telefonnummer og e-post.</li>
-    <li>Valgfritt: Et enkelt kontaktskjema for spørsmål eller bestillinger.</li>
-</ul>
-`,
-    
-    `<h2>Case: Bilforhandlerens Nettside 🚘</h2>
-<ul>
-    <li>Tittel: Lag en profesjonell nettside for “Veien Auto” – en lokal bilforhandler som tilbyr et bredt utvalg av nye og brukte biler.</li>
-</ul>
-
-<h3>Bakgrunn</h3>
-<ul>
-    <li>“Veien Auto” ønsker å nå flere potensielle kunder digitalt. </li>
-    <li>De trenger en moderne og brukervennlig nettside for å vise frem bilutvalget, dele informasjon om tjenester og gjøre det enkelt for kunder å ta kontakt.</li>
-</ul>
-
-<h3>Oppgave:</h3>
-<ul>
-    <li>Bygg en grunnleggende nettside for “Veien Auto”. Nettsiden skal være enkel å navigere og reflektere et solid og pålitelig bilforhandlerkonsept.</li>
-</ul>
-
-<h3>Krav til funksjonalitet</h3>
-<h3>1.  Hjemmeside:</h3>
-<ul>
-    <li>Oversiktlig velkomstside med bilforhandlerens navn og et kort slagord.</li>
-    <li>Et bannerbilde som viser bilene eller bilforhandlerens lokale.</li>
-    <li>Kort tekst om bedriftens filosofi og hva som skiller “Veien Auto” fra andre forhandlere.</li>
-</ul>
-
-<h3>2.  Biler i utvalg:</h3>
-<ul>
-    <li>Presenter minst tre ulike biler (nye eller brukte).</li>
-    <li>Hver bil skal ha et bilde, modellnavn og en kort beskrivelse (f.eks. nøkkelinfo om drivstoff, kilometerstand eller unike egenskaper).</li>
-    <li>Valgfritt: Oppgi pris og eventuelle finansieringsmuligheter.</li>
-</ul>
-
-<h3>3.  Kontaktinformasjon:</h3>
-<ul>
-    <li>En egen seksjon eller underside med forhandlerens adresse, telefonnummer og e-post.</li>
-    <li>Valgfritt: Et enkelt kontaktskjema for testkjøring eller spørsmål.</li>
-</ul>
-`,
-    
     `<h2>Case: Treningssenterets Nettside 🏋️</h2>
 <ul>
     <li>Tittel: Lag en inspirerende nettside for “Aktivio” – et treningssenter som fokuserer på personlig oppfølging og gode treningsopplevelser.</li>
@@ -192,53 +115,7 @@ const result = [
     <li>Egen seksjon eller underside med butikkens adresse, åpningstider, telefonnummer og e-post.</li>
     <li>Valgfritt: Et enkelt kontaktskjema for henvendelser eller bestillinger (f.eks. catering).</li>
 </ul>
-    `,
-
     `
-<h2>Case: Bærekrafts Nettside ♻️</h2>
-<ul>
-    <li>Tittel: Lag en inspirerende og informativ nettside for “Grønn Fremtid” – en organisasjon som jobber for bærekraftige løsninger og miljøvennlige tiltak.</li>
-</ul>
-
-<h3>Bakgrunn:</h3>
-<ul>
-    <li>“Grønn Fremtid” ønsker å øke bevisstheten rundt miljøutfordringer og tiltrekke seg støttespillere.</li>
-    <li>Målet er å ha en nettside som presenterer prosjektene deres, gir tips til en grønnere hverdag og gjør det enkelt for folk å engasjere seg.</li>
-</ul>
-
-<h3>Oppgave:</h3>
-<ul>
-    <li>Bygg en grunnleggende nettside for “Grønn Fremtid”. Nettsiden skal være brukervennlig, ha en ren og miljøvennlig profil, og gi besøkende lyst til å ta del i organisasjonens arbeid.</li>
-</ul>
-
-<h3>Krav til funksjonalitet:</h3>
-<h3>1. Hjemmeside:</h3>
-<ul>
-    <li>En velkomstseksjon med organisasjonens navn og et kort, treffende slagord.</li>
-    <li>Et bannerbilde eller illustrasjon som formidler miljøvern og bærekraft (f.eks. natur, planter, fornybar energi).</li>
-    <li>Kort tekst som beskriver organisasjonens misjon og visjon.</li>
-</ul>
-
-<h3>2. Prosjekter og tiltak:</h3>
-<ul>
-    <li>Presenter minst tre pågående eller fremhevede prosjekter (f.eks. gjenplanting av skog, strandrydding, solenergi-initiativer).</li>
-    <li>Hvert prosjekt bør ha en kort beskrivelse og et bilde eller ikon.</li>
-    <li>Valgfritt: Inkluder suksesshistorier, resultater eller statistikk (f.eks. antall trær plantet, kilo plast ryddet).</li>
-</ul>
-
-<h3>3. Involvering og tips:</h3>
-<ul>
-    <li>En seksjon eller underside med konkrete råd for å leve mer bærekraftig (f.eks. resirkuleringstips, energisparing, matvett).</li>
-    <li>Valgfritt: Enkle steg for hvordan besøkende kan bli frivillige, donere eller starte egne lokallag.</li>
-</ul>
-
-<h3>4. Kontaktinformasjon:</h3>
-<ul>
-    <li>Egen seksjon eller underside med organisasjonens adresse (om relevant), e-post og telefonnummer.</li>
-    <li>Valgfritt: Et enkelt kontaktskjema for donasjonsspørsmål eller generelle henvendelser.</li>
-    <li>Linker til sosiale medier (f.eks. Facebook, Instagram, LinkedIn) for oppdateringer og kampanjer.</li>
-</ul>
-`
     ];
     
 
